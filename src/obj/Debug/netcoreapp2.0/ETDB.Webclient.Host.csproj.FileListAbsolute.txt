@@ -1,0 +1,11 @@
+D:\Code\etdb-webclient-host\etdb-webclient-host\bin\Debug\netcoreapp2.0\ETDB.Webclient.Host.deps.json
+D:\Code\etdb-webclient-host\etdb-webclient-host\bin\Debug\netcoreapp2.0\ETDB.Webclient.Host.runtimeconfig.json
+D:\Code\etdb-webclient-host\etdb-webclient-host\bin\Debug\netcoreapp2.0\ETDB.Webclient.Host.runtimeconfig.dev.json
+D:\Code\etdb-webclient-host\etdb-webclient-host\bin\Debug\netcoreapp2.0\ETDB.Webclient.Host.dll
+D:\Code\etdb-webclient-host\etdb-webclient-host\bin\Debug\netcoreapp2.0\ETDB.Webclient.Host.pdb
+D:\Code\etdb-webclient-host\etdb-webclient-host\obj\Debug\netcoreapp2.0\ETDB.Webclient.Host.csprojResolveAssemblyReference.cache
+D:\Code\etdb-webclient-host\etdb-webclient-host\obj\Debug\netcoreapp2.0\ETDB.Webclient.Host.csproj.CoreCompileInputs.cache
+D:\Code\etdb-webclient-host\etdb-webclient-host\obj\Debug\netcoreapp2.0\ETDB.Webclient.Host.AssemblyInfoInputs.cache
+D:\Code\etdb-webclient-host\etdb-webclient-host\obj\Debug\netcoreapp2.0\ETDB.Webclient.Host.AssemblyInfo.cs
+D:\Code\etdb-webclient-host\etdb-webclient-host\obj\Debug\netcoreapp2.0\ETDB.Webclient.Host.dll
+D:\Code\etdb-webclient-host\etdb-webclient-host\obj\Debug\netcoreapp2.0\ETDB.Webclient.Host.pdb
